@@ -52,6 +52,11 @@ span.temp {
 .card-clock-humidity {
   text-align: right;
 }
+.card-clock-weather-icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;
+}
 .card-clock-time {
   flex: 1;
   font-family: UnidreamLED;
